@@ -3,6 +3,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 REQUIREMENTS
+
 ────────────
 
 • Windows 10 or 11 (64-bit)
@@ -43,7 +44,9 @@ INSTALLATION
 
 
 USING OSK
+
 ─────────
+
 OPENING / CLOSING
   • OSK starts automatically on login.
   • Double-click the desktop shortcut, or find "OSK" in the Start Menu.
