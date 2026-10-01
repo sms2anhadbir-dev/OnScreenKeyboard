@@ -14,7 +14,7 @@ REQUIREMENTS
 INSTALLATION
 
 ────────────
-1. Go to https://github.com/sms2anhdbir-dev/OnScreenKeyboard/releases and download the latest zip file
+1. Go to https://github.com/sms2anhadbir-dev/OnScreenKeyboard/releases and download the latest zip file
 
 2. Decompress and run OSK_Setup.exe
    Right-click → "Run as administrator" if prompted by Windows.
