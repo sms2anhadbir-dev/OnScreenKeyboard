@@ -4,13 +4,16 @@
 
 REQUIREMENTS
 ────────────
+
 • Windows 10 or 11 (64-bit)
 • Internet connection (required during install)
 • ~50 MB free disk space
 
 
 INSTALLATION
+
 ────────────
+
 1. Run OSK_Setup.exe
    Right-click → "Run as administrator" if prompted by Windows.
 
