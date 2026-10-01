@@ -14,28 +14,29 @@ REQUIREMENTS
 INSTALLATION
 
 ────────────
+1. Go to https://github.com/sms2anhdbir-dev/OnScreenKeyboard/releases and download the latest zip file
 
-1. Run OSK_Setup.exe
+2. Decompress and run OSK_Setup.exe
    Right-click → "Run as administrator" if prompted by Windows.
 
-2. Welcome screen — click Next.
+3. Welcome screen — click Next.
 
-3. Choose keyboard language(s)
+4. Choose keyboard language(s)
    Select one or more layouts from the list (e.g. English, French, Arabic).
    You can change this later from inside OSK.
 
-4. Choose install location
+5. Choose install location
    Default: C:\Users\<you>\AppData\Local\Programs\OSK
    Click Browse to pick a different folder, then click Next.
 
-5. Installation runs automatically:
+6. Installation runs automatically:
    • Connects to servers and downloads OSK
    • Installs the uninstaller
    • Creates a desktop shortcut
    • Adds OSK to your Start Menu
    • Registers OSK in Apps & Features
 
-6. Click Finish. OSK launches immediately and will
+7. Click Finish. OSK launches immediately and will
    start automatically every time you log in.
 
    NOTE: An internet connection is required during setup.
