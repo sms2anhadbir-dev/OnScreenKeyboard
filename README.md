@@ -103,6 +103,7 @@ STARTUP BEHAVIOR
 UNINSTALLING
 
 ────────────
+
 Option A — Apps & Features (recommended):
   Settings → Apps → search "OSK" → Uninstall
 
