@@ -1,16 +1,16 @@
-#━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  OSK — On-Screen Keyboard
-#━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-#REQUIREMENTS
-#────────────
+REQUIREMENTS
+────────────
 • Windows 10 or 11 (64-bit)
 • Internet connection (required during install)
 • ~50 MB free disk space
 
 
-#INSTALLATION
-#────────────
+INSTALLATION
+────────────
 1. Run OSK_Setup.exe
    Right-click → "Run as administrator" if prompted by Windows.
 
@@ -39,46 +39,46 @@
    connection and try again.
 
 
-#USING OSK
-#─────────
-#OPENING / CLOSING
+USING OSK
+─────────
+OPENING / CLOSING
   • OSK starts automatically on login.
   • Double-click the desktop shortcut, or find "OSK" in the Start Menu.
   • Click the X button on the keyboard to close it.
     (It will reopen on next login — see STARTUP below to disable.)
 
-#MOVING THE KEYBOARD
+MOVING THE KEYBOARD
   • Click and drag anywhere on the keyboard frame to reposition it.
   • OSK remembers its position between sessions.
 
-#RESIZING
+RESIZING
   • Drag the resize handle (bottom-right corner) to make the keyboard
     larger or smaller.
 
-#TYPING
+TYPING
   • Click any key to send that keystroke to whatever app is in focus.
   • Shift / Caps Lock work exactly like a physical keyboard.
   • Special keys (Enter, Backspace, Tab, arrows, etc.) are fully supported.
 
-#SWITCHING LANGUAGES
+SWITCHING LANGUAGES
   • Click the language flag / label at the bottom of the keyboard.
   • Cycles through all the layouts you selected during install.
   • To add more layouts: uninstall and reinstall, or edit your language
     preferences in OSK's settings panel.
 
-#SETTINGS PANEL
+SETTINGS PANEL
   • Click the gear icon (⚙) on the keyboard to open settings.
   • Options include: theme, opacity, key size, startup behavior,
     and language layout management.
 
-#STARTUP BEHAVIOR
+STARTUP BEHAVIOR
   • By default OSK launches with Windows.
   • To disable: open Settings → uncheck "Launch OSK on startup".
   • To re-enable: check it again, or re-run OSK_Setup.exe.
 
 
-#UNINSTALLING
-#────────────
+UNINSTALLING
+────────────
 Option A — Apps & Features (recommended):
   Settings → Apps → search "OSK" → Uninstall
 
@@ -94,21 +94,21 @@ The uninstaller will:
   • Remove OSK from Apps & Features
 
 
-#TROUBLESHOOTING
-#───────────────
+TROUBLESHOOTING
+───────────────
 "Cannot reach servers" during install
   → Check your internet connection and try again.
   → Temporarily disable your firewall or antivirus and retry.
 
-#Keyboard not appearing on screen
+Keyboard not appearing on screen
   → Check the system tray (bottom-right) — OSK may be minimised.
   → Open Task Manager and end any existing OSK.exe processes, then relaunch.
 
-#Keys not registering in a specific app
+Keys not registering in a specific app
   → Some apps (games, UAC prompts) block simulated input by design.
   → Try running OSK as administrator.
 
-#Windows Defender / antivirus flags the installer
+Windows Defender / antivirus flags the installer
   → This is a false positive common with PyInstaller-packaged apps.
   → Click "More info" → "Run anyway", or add an exception for OSK_Setup.exe.
 
